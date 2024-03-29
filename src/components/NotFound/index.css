@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.not-found-img {
+  width: 240px;
+  height: 240px;
+}
+.not-found-title {
+  color: #551e53;
+  font-size: 36px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
